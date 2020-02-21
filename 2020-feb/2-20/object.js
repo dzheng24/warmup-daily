@@ -38,12 +38,13 @@ state = {people, stuff}
 
 newState = {people, stuff};
 newState.people = ['Odie', ...people, 'Garfield']
+newState.stuff = {...stuff};
 newState.stuff.cars = [...stuff.cars, 'Chevy'];
 
-// console.log(newState);
+console.log(newState);
 
 //Prove that the original people, stuff, and state are unchanged.
 
 console.log(people);
 console.log(stuff);
-console.log(state);
+// console.log(state);
