@@ -1,3 +1,10 @@
+
+// array warmup
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+
+// -----------------------------------------------
+// objects destructuring and spread syntax warmup
 const people = ['Kookla','Fran','Ollie'];
 
 const stuff = {
@@ -27,3 +34,8 @@ let newState = {};
 
 
 // Prove that the original people, stuff, and state are unchanged.
+
+
+//-----------------------------------
+// mapping warmup
+// find the first recurring number in an array
