@@ -1,10 +1,14 @@
 
+
 // array warmup
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 
+
+
 // -----------------------------------------------
 // objects destructuring and spread syntax warmup
+
 const people = ['Kookla','Fran','Ollie'];
 
 const stuff = {
@@ -35,7 +39,16 @@ let newState = {};
 
 // Prove that the original people, stuff, and state are unchanged.
 
+// console.log(people);
+// console.log(stuff);
+// console.log(state);
 
 //-----------------------------------
 // mapping warmup
 // find the first recurring number in an array
+
+function findingFirstRepeat(arr) {
+
+}
+
+// console.log(findingRepeat([1,2,3,4,5,6,7,8,9]));
