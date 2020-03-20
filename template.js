@@ -47,7 +47,7 @@ let newState = {};
 // mapping warmup
 // find the first recurring number in an array
 
-function findingFirstRepeat(arr) {
+function findingRepeat(arr) {
 
 }
 
