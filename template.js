@@ -44,11 +44,23 @@ let newState = {};
 // console.log(state);
 
 //-----------------------------------
-// mapping warmup
-// find the first recurring number in an array
 
-function findingRepeat(arr) {
+// recursion warmup
+// Write a function that finds the factorial of any number
+
+function findFactorialRecursive(number) {
 
 }
 
-// console.log(findingRepeat([1,2,3,4,5,6,7,8,9]));
+// console.log(findFactorialRecursive(5));
+
+// Given a number N, return the index value of the Fibonacci sequence, where the sequence is:
+// 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144...
+// The pattern of the sequence is that each value is the sum of the 2 previous values
+// Ex. N = 5 -> 2 + 3
+
+function fibonacciRecursive(n) {
+
+}
+
+// console.log(fibonacciRecursive(8));
