@@ -64,3 +64,14 @@ function fibonacciRecursive(n) {
 }
 
 // console.log(fibonacciRecursive(8));
+
+// insertion sort 
+
+const practice = [-88, 4, 6, 23, 24, 78, 99, 100, 20, 25];
+
+function insertionSort(arr) {
+  
+}
+
+insertionSort(practice);
+console.log(practice);
